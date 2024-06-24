@@ -1,6 +1,4 @@
-<img align="left" src="https://count.getloli.com/get/@:shaoxiawjc?theme=rule34">
-
----
+<img align="right" src="https://count.getloli.com/get/@:shaoxiawjc?theme=rule34">
 
 
 
