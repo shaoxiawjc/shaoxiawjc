@@ -1,12 +1,12 @@
-<img align="right" src="https://count.getloli.com/get/@:shaoxiawjc?theme=rule34">
+<img align="left" src="https://count.getloli.com/get/@:shaoxiawjc?theme=rule34">
 
-## 😊 Hi, I'm Wu Jinchao! You can also call me Shaoxia ☀️<img align="right" alt="GIF" src="./markdown-img/README.assets/code.gif" width="430" height="100%" />
+## 😊 Hi, I'm Wu Jinchao! You can also call me Shaoxia ☀️
 
 * 🎓 A freshman majoring in Computer Science at Fuzhou University 
 * 💻 Java language enthusiast ❤️, and just starting to explore AI 🙏 
 * 📧 Contact me at: [wjc2800@163.com](mailto:wjc2800@163.com)
 
-
+<img align="left" alt="GIF" src="./markdown-img/README.assets/code.gif" width="430" height="100%" />
 
 
 
