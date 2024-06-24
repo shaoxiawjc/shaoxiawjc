@@ -1,5 +1,9 @@
 <img align="left" src="https://count.getloli.com/get/@:shaoxiawjc?theme=rule34">
 
+
+
+
+
 ## 😊 Hi, I'm Wu Jinchao! You can also call me Shaoxia ☀️
 
 * 🎓 A freshman majoring in Computer Science at Fuzhou University 
