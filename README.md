@@ -1,9 +1,9 @@
-## Hi  I'm WuJinChao. You can also call me Shaoxia
+## 😊Hi  I'm WuJinChao. You can also call me Shaoxia☀️
 
 
 
 * A freshman majoring in CS at Fuzhou University
-* I am a Java language learner, and I am also beginning to understand AI
+* I am a Java language learner❤️, and I am also beginning to understand AI🙏
 * My email: wjc2800@163.com
 
 
