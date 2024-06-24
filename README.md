@@ -10,6 +10,8 @@
 
 <img align="left" alt="GIF" src="./markdown-img/README.assets/code.gif" width="430" height="100%" />
 
+<br>
+
 
 
 ## GitHub Activity
