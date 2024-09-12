@@ -4,7 +4,7 @@
 
 ## 😊 Hi, I'm Wu Jinchao! You can also call me Shaoxia ☀️
 
-* 🎓 A freshman majoring in Computer Science at Fuzhou University 
+* 🎓 A sophomore majoring in Computer Science at Fuzhou University 
 * 💻 Java language enthusiast ❤️, and just starting to explore AI 🙏 
 * 📧 Contact me at: [wjc2800@163.com](mailto:wjc2800@163.com)
 
