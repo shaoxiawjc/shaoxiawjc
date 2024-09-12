@@ -8,7 +8,6 @@
 * 💻 Java language enthusiast ❤️, and just starting to explore AI 🙏 
 * 📧 Contact me at: [wjc2800@163.com](mailto:wjc2800@163.com)
 
-![code](./markdown-img/README.assets/code.gif)
 
 
 
